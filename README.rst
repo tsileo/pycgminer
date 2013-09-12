@@ -2,7 +2,7 @@
 Pycgminer
 =========
 
-Python wrapper for `cgminer <https://github.com/ckolivas/cgminer>` RPC API.
+Python wrapper for `cgminer <https://github.com/ckolivas/cgminer>`_ RPC API.
 
 QuickStart
 ----------
@@ -11,11 +11,11 @@ QuickStart
 
     from pycgminer import CgminerAPI
 
-	cgminer = CgminerAPI()
+    cgminer = CgminerAPI()
 
-	summary = cgminer.summaray()
+    summary = cgminer.summaray()
 
-	my_asic = cgminer.asc(0)
+    my_asic = cgminer.asc(0)
 
 
 

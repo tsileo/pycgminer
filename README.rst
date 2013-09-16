@@ -4,6 +4,13 @@ Pycgminer
 
 Python wrapper for `cgminer <https://github.com/ckolivas/cgminer>`_ RPC API.
 
+.. image:: https://pypip.in/v/pycgminer/badge.png
+        :target: https://crate.io/packages/pycgminer
+
+.. image:: https://pypip.in/d/pycgminer/badge.png
+        :target: https://crate.io/packages/pycgminer
+
+
 QuickStart
 ----------
 

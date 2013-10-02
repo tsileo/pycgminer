@@ -25,6 +25,13 @@ QuickStart
     my_asic = cgminer.asc(0)
 
 
+Donation
+--------
+
+If you like my work, please consider donating:
+
+BTC 18ZcxHsKnc4a1AhnThQ2tiLVjQehxKaGFX
+
 
 License (MIT)
 -------------

@@ -11,6 +11,14 @@ Python wrapper for `cgminer <https://github.com/ckolivas/cgminer>`_ RPC API.
         :target: https://crate.io/packages/pycgminer
 
 
+Installation
+------------
+
+.. code-block::
+
+    $ pip install pycgminer
+
+
 QuickStart
 ----------
 
